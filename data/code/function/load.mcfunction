@@ -11,7 +11,7 @@ gamerule doImmediateRespawn true
 
 # To make sure your datapack is working, a load message can be useful.
 tellraw @a { "color": "#00FF00", "text": "The Code is Load"}
-tellraw @a "GITHUB IS REALL!!"
+tellraw @a "GITHUB IS REALL!!!"
 
 # You can do whatever you want in the load function!
 #give @a minecraft:sea_pickle[minecraft:enchantments={levels:{"minecraft:silk_touch":2}}]
